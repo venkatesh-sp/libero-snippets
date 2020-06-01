@@ -1,0 +1,37 @@
+.custom-fa {
+  border-radius: 50%;
+  height: 35px;
+  width: 35px;
+  outline: none;
+  border: none;
+  background-color: transparent;
+  color: azure;
+}
+.custom-fa:focus {
+  border: none;
+  outline: none;
+}
+.custom-fa:hover {
+  color: red;
+  background-color: azure;
+}
+
+.fa-phone {
+  transform: rotateZ(-133deg);
+  background-color: azure;
+  color: red;
+}
+
+.fa-microphone-slash,
+.fa-video-slash {
+  background-color: red;
+  color: azure;
+}
+
+body {
+  font-family: sans-serif;
+
+  text-align: center;
+  padding: 2rem;
+  background-color: #593f6e;
+}
