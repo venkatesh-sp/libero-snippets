@@ -8,7 +8,7 @@
     "pg-hstore": "^2.3.3",
     "push.js": "^1.0.12",
     "sequelize": "^5.21.11",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {},
   "scripts": {
